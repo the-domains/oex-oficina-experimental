@@ -1,0 +1,18 @@
+layout_spectrum: 1
+typography_spectrum: 0.4527825
+color:
+  saturation: 0.851468
+  lightness: 0.9394829
+  brandStrength: 0.3777403
+  brandColors:
+    - '#FCFCFC'
+    - '#D5C4B3'
+    - '#A87E3F'
+    - '#0F0E0D'
+    - '#663F1A'
+  rhythmicContrast: 0.2194484
+name: 'OEX - OFICINA EXPERIMENTAL '
+navigation:
+  - name: 'OEX na Reserva '
+    url: 'http://www.a-reserva.org/oficina-experimental/'
+    type: external
