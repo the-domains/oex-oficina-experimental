@@ -4,7 +4,7 @@
         <description><![CDATA[OEX]]></description>
         <link>https://thegrid.ai/oex-oficina-experimental/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 16:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 16:14:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oex-oficina-experimental/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[UpCicling – novos usos para móveis sem uso !]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.a-reserva.org/upcicling-novos-usos-para-moveis-sem-uso/</link>
             <guid isPermaLink="false">0fa6dcb6-e966-47e1-a210-4a2e568ffb71</guid>
             <pubDate>Tue, 30 Aug 2016 16:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oficina Experimental]]></title>
+            <description><![CDATA[<article><h1>Oficina Experimental</h1><p>A Oficina experimental é um espaço descontraído e livre onde os participantes adquirem conhecimentos, formação e técnicas específicas para conceber e transformar materiais diversos como madeira, metal, cerâmica e vidro. Preza pela sustentabilidade e preservação do meio ambiente.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dff22faaeadfeabadaaca873849adef1/noop.jpg?input=http%3A%2F%2Fi1.wp.com%2Fwww.a-reserva.org%2Fwp-content%2Fuploads%2F2016%2F03%2FFullSizeRender-24.jpg%3Ffit%3D480%252C640"></article>]]></description>
+            <link>http://www.a-reserva.org/oficina-experimental/</link>
+            <guid isPermaLink="false">926cc895-47d1-4971-8da8-5c352c621dd2</guid>
+            <pubDate>Tue, 30 Aug 2016 16:14:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
