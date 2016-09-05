@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-30T15:57:59.620Z'
+datePublished: '2016-08-30T16:12:28.615Z'
 sourcePath: _posts/2016-08-25-upcicling-novos-usos-para-moveis-sem-uso.md
+inFeed: true
 isBasedOnUrl: 'http://www.a-reserva.org/upcicling-novos-usos-para-moveis-sem-uso/'
 author:
   - name: Rafael Marques
 via: {}
-dateModified: '2016-08-30T12:50:06.817Z'
+dateModified: '2016-08-30T16:12:28.169Z'
 title: UpCicling – novos usos para móveis sem uso !
 publisher:
   name: OEX
 description: 'http://www.a-reserva.org/upcicling-novos-usos-para-moveis-sem-uso/'
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
