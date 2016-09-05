@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OFICINA EXPERIMENTAL]]></title>
-        <description><![CDATA[OFICINA EXPERIMENTAL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[OEX]]></title>
+        <description><![CDATA[OEX]]></description>
+        <link>https://thegrid.ai/oex-oficina-experimental/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 15:58:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 30 Aug 2016 16:12:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oex-oficina-experimental/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[UpCicling – novos usos para móveis sem uso !]]></title>
             <description><![CDATA[<article><h1>UpCicling – novos usos para móveis sem uso !</h1><p>http://www.a-reserva.org/upcicling-novos-usos-para-moveis-sem-uso/</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6063807-09b7-4080-9d5c-623474e1734c.jpg"></article>]]></description>
             <link>http://www.a-reserva.org/upcicling-novos-usos-para-moveis-sem-uso/</link>
             <guid isPermaLink="false">0fa6dcb6-e966-47e1-a210-4a2e568ffb71</guid>
-            <pubDate>Tue, 30 Aug 2016 15:57:59 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 16:12:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
