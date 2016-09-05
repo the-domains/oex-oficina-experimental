@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.4527825
 color:
   saturation: 0.851468
@@ -11,8 +10,10 @@ color:
     - '#0F0E0D'
     - '#663F1A'
   rhythmicContrast: 0.2194484
+layout_spectrum: 1
 name: 'OEX - OFICINA EXPERIMENTAL '
 navigation:
   - name: 'OEX na Reserva '
     url: 'http://www.a-reserva.org/oficina-experimental/'
     type: external
+title: OFICINA EXPERIMENTAL
