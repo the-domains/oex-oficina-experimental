@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-30T16:39:37.879Z'
+datePublished: '2016-08-31T09:34:13.150Z'
+sourcePath: _posts/2016-08-30-workshop--upcicling-novos-usos-para-moveis-sem-uso.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:39:27.947Z'
-title: WORKSHOP . UpCicling – novos usos para móveis sem uso
+dateModified: '2016-08-31T09:34:12.721Z'
+title: WORKSHOP - 8 e 9 out. UpCicling – novos usos para móveis sem uso
 publisher: {}
 description: 'Um móvel velho ou com acabamento menos interessante, poderá ser transformado e'
 starred: false
-sourcePath: _posts/2016-08-30-workshop--upcicling-novos-usos-para-moveis-sem-uso.md
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f0cb6fd-97bf-47f6-87d2-35be18a2c3ce.jpg)
 
-# **WORKSHOP . UpCicling -- novos usos para móveis sem uso**
+# **WORKSHOP - 8 e 9 out. UpCicling -- novos usos para móveis sem uso**
 
 Um móvel velho ou com acabamento menos interessante, poderá ser transformado e
 
