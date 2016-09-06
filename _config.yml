@@ -1,16 +1,16 @@
-layout_spectrum: 0.8969985439907759
-typography_spectrum: 0.8393834633752704
+layout_spectrum: 0.8951276566367596
+typography_spectrum: 0.23967614234425128
 color:
-  saturation: 0.5855853559914976
-  lightness: 0.9483985237311572
-  brandStrength: 0.1009945950936526
+  saturation: 0.9930232234764844
+  lightness: 0.3858581497333944
+  brandStrength: 0.49276360869407654
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
-  rhythmicContrast: 0.11125945346429944
+    - '#FCFCFC'
+    - '#D5C4B4'
+    - '#9E6726'
+    - '#493D2B'
+    - '#11100E'
+  rhythmicContrast: 0.10303494310937822
 author:
   name: Rafael Sampaio Nunes Marques
   email: oficinaexperimental.oeiras@gmail.com
