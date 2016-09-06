@@ -1,28 +1,40 @@
-layout_spectrum: 0.8951276566367596
-typography_spectrum: 0.23967614234425128
+title: "OEX - OFICINA EXPERIMENTAL\_"
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: >-
+  madeira, metal, vidro, cerâmica, bicicletas, upcicling and recicling, creating
+  new things
 color:
   saturation: 0.9930232234764844
-  lightness: 0.3858581497333944
-  brandStrength: 0.49276360869407654
+  brandStrength: 0.4927636086940765
+  rhythmicContrast: 0.1030349431093782
   brandColors:
     - '#FCFCFC'
     - '#D5C4B4'
     - '#9E6726'
     - '#493D2B'
     - '#11100E'
-  rhythmicContrast: 0.10303494310937822
+  lightness: 0.3858581497333944
+navigation:
+  - name: 'OEX na Reserva '
+    url: 'http://www.a-reserva.org/oficina-experimental/'
+    type: external
+name: 'OEX - OFICINA EXPERIMENTAL '
 author:
   name: Rafael Sampaio Nunes Marques
   email: oficinaexperimental.oeiras@gmail.com
   url: rdesignglobal.org
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffc8936f-4400-4d0f-b626-bf6f41bc58ed.png
-name: 'OEX - OFICINA EXPERIMENTAL '
-navigation:
-  - name: 'OEX na Reserva '
-    url: 'http://www.a-reserva.org/oficina-experimental/'
-    type: external
-title: "OEX - OFICINA EXPERIMENTAL\_"
-description: >-
-  madeira, metal, vidro, cerâmica, bicicletas, upcicling and recicling, creating
-  new things
+typography_spectrum: 0.2396761423442513
+layout_spectrum: 0
