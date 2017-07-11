@@ -1,4 +1,36 @@
-title: "OEX - OFICINA EXPERIMENTAL\_"
+typography_spectrum: 0.04561563014559964
+color:
+  saturation: 0.7402828694967608
+  brandStrength: 0.06962730077335076
+  rhythmicContrast: 0.24169169511830452
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  lightness: 0.5130009599868208
+layout_spectrum: 0.6358868556089773
+author:
+  name: Rafael Sampaio Nunes Marques
+  email: oficinaexperimental.oeiras@gmail.com
+  url: rdesignglobal.org
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/876f823d-b207-4758-acbb-e6acb5dfe81d.png
+name: ' '
+navigation:
+  - name: 'OEX na Reserva '
+    url: 'http://www.a-reserva.org/oficina-experimental/'
+    type: external
+  - name: Rafael Marques
+    id: ef1995ab-4746-477e-876d-9edb2af2e78b
+    type: content
+  - name: O que é a OEX?
+    id: 641800f2-33ff-48b0-bafe-709af5f6d860
+    type: content
+  - name: R _ design global
+    url: 'http://www.rdesignglobal.org'
+    type: external
 collections:
   - index:
       path: /
@@ -11,30 +43,35 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: "OEX - OFICINA EXPERIMENTAL\_"
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef129511-fcea-4c1a-8eb1-b02b08da4935.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef129511-fcea-4c1a-8eb1-b02b08da4935.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  madeira, metal, vidro, cerâmica, bicicletas, upcicling and recicling, creating
-  new things
-color:
-  saturation: 0.9930232234764844
-  brandStrength: 0.4927636086940765
-  rhythmicContrast: 0.1030349431093782
-  brandColors:
-    - '#FCFCFC'
-    - '#D5C4B4'
-    - '#9E6726'
-    - '#493D2B'
-    - '#11100E'
-  lightness: 0.3858581497333944
-navigation:
-  - name: 'OEX na Reserva '
-    url: 'http://www.a-reserva.org/oficina-experimental/'
-    type: external
-name: 'OEX - OFICINA EXPERIMENTAL '
-author:
-  name: Rafael Sampaio Nunes Marques
-  email: oficinaexperimental.oeiras@gmail.com
-  url: rdesignglobal.org
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffc8936f-4400-4d0f-b626-bf6f41bc58ed.png
-typography_spectrum: 0.2396761423442513
-layout_spectrum: 0
+  wood, metal, glass, cerâmic, bikes, camper vans - upcicling and recicling,
+  creating new things
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6bb605-ffc2-4550-83b4-aac762c5a06b.png
