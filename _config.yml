@@ -75,3 +75,7 @@ description: >-
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6bb605-ffc2-4550-83b4-aac762c5a06b.png
+purpose:
+  - type: contact
+    url: 'mailto:r.global@icloud.com'
+    label: envie um mail para saber mais!
